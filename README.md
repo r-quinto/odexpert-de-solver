@@ -2,9 +2,9 @@
 ODEXpert is a Python-based GUI application designed to solve first-order differential equations. It supports checking whether an equation is homogeneous or exact, and it computes the corresponding solutions using SymPy. The GUI is built using CustomTkinter for a modern interface.
 
 # Project Structure
-- main.py: Splash screen
-- logic.py: Differential equation logic (homogeneous & exact).
-- calc.py: Main GUI and UI logic.
+- [main.py:](odexpert/main.py) Splash screen
+- [logic.py:](odexpert/logic.py) Differential equation logic (homogeneous & exact).
+- [calc.py:](odexpert/calc.py) Main GUI and UI logic.
 
 # Installation
 Make sure you have Python 3.7+ installed on your system.
